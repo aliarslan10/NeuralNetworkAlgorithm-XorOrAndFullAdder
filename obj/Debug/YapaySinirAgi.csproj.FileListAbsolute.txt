@@ -1,0 +1,21 @@
+C:\Users\ZW\Desktop\YapaySinirAgi\YapaySinirAgi\bin\Debug\YapaySinirAgi.exe.config
+C:\Users\ZW\Desktop\YapaySinirAgi\YapaySinirAgi\bin\Debug\YapaySinirAgi.exe
+C:\Users\ZW\Desktop\YapaySinirAgi\YapaySinirAgi\bin\Debug\YapaySinirAgi.pdb
+C:\Users\ZW\Desktop\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.csprojResolveAssemblyReference.cache
+C:\Users\ZW\Desktop\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.Form1.resources
+C:\Users\ZW\Desktop\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.Properties.Resources.resources
+C:\Users\ZW\Desktop\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.csproj.GenerateResource.Cache
+C:\Users\ZW\Desktop\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.exe
+C:\Users\ZW\Desktop\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.pdb
+C:\Users\ZW\Desktop\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.Form2.resources
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\bin\Debug\YapaySinirAgi.exe.config
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.exe
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.pdb
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\bin\Debug\YapaySinirAgi.exe
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.csprojResolveAssemblyReference.cache
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.Form1.resources
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.Form2.resources
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.Properties.Resources.resources
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.csproj.GenerateResource.Cache
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\bin\Debug\YapaySinirAgi.pdb
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\YapaySinirAgi\YapaySinirAgi\obj\Debug\YapaySinirAgi.csproj.ResolveComReference.cache
